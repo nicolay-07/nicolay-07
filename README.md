@@ -6,8 +6,9 @@ com projetos práticos.
 
 ## 🛠️ Tecnologias
 
-**Foco atual:** TypeScript · Node.js · NestJS · React · Next.js · SQL · MongoDB
-**Possuo base em:** Python · C · C#
+**Foco atual:** JavaScript · TypeScript · Node.js · NestJS · React · Next.js · SQL · MongoDB
+
+**Possui base em:** Python · C · C#
 
 
 ## 🎯 Atualmente
