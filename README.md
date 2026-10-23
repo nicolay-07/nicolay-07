@@ -12,7 +12,7 @@ com projetos práticos.
 
 ## 🎯 Atualmente
 
-Buscando oportunidade de estágio em desenvolvimento de software.
+Buscando oportunidade em desenvolvimento de software.
 
 ## 📫 Contato
 
