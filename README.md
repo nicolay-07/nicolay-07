@@ -1,4 +1,4 @@
-# Olá, meu nome é João Pedro 
+# João Pedro Nicolay Montenário
 
 Estudante de Ciência da Computação, com foco em desenvolvimento Full Stack.
 Gosto de unir a teoria (estruturas de dados, lógica, matemática)
